@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Xodiro.com</title>
+</head>
+<body bgcolor="#deb887">
+<p align="center"><table>
+<tr><td><img src="https://i.pinimg.com/564x/90/a8/5f/90a85f7f3ff16eb05ca933d84c5e07dd.jpg"width="80" height="80"></td><td><font color="#794918"><font size="12"><font face="Comic Sans MS">Xodiro.com</font></p></p>
+</tr></table>
+
+<P align="right"><table border>
+<tr bgcolor="#eee8aa"><font size="6"><font face="Comic Sans MS">
+<td><font size="5"><font face="Comic Sans MS">Descubre y aprende de forma segura</br>
+</td> 
+</tr>
+</table>
+
+<P align="center"><table border>
+<tr bgcolor="#a0522d"><font size="6"><font face="Comic Sans MS">
+<td><font size="6"><font face="Comic Sans MS"><font color="#f5deb3"><P align="center">OBJETIVO,MISIÓN Y VISIÓN</p></font></font></font>
+<br><font size="5"><font face="Comic Sans MS">OBJETIVO: Informar de diferentes fuentes seguras sobre diversas carreras
+<br>para que el usuario este informado</br>
+<br>MISIÓN:Proporcionar información segura y confiable sobre carreras y
+<br>universidades para que los usuarios tengan la oprtunidad de estar
+<br>informados y elegir correctamente</br>
+<br>VISIÓN:Convertirnos en el sitio web preferido para quienes buscan
+<br>información confiable sobre universidades y convertirnos en las
+<br>mejores estatalmente</br>
+
+</td> 
+</tr>
+</table>
+
+<td><br><font size="5"><font face="Comic Sans MS"><p align="center"><a href="file:///C:/Users/Ximena/Desktop/DEWE/WEB.html" target="_blank">Pagina de inicio</font></a>
+
+
+<footer>
+    <p align="center"><font color="#794918"><font size="5"><font face="Comic Sans MS">Xodiro	-	<img src="https://clipartcraft.com/images/email-logo-png-brown-2.png"width="25" height="25"> Xodiro.web@gmail.com	-	<img src="https://www.pnguniverse.com/wp-content/uploads/2020/08/instagram-480x480.png"width="25" height="25">Xodiro_web	-<img src="https://www.pnguniverse.com/wp-content/uploads/2020/09/whatsapp-795531.png"width="25" height="25">	775 275 0575</p></font></font>
+</footer>
+
+</body>
+</html>

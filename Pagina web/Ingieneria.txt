@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Xodiro.com</title>
+</head>
+<body bgcolor="#deb887">
+<p align="center"><table>
+<tr><td><img src="https://i.pinimg.com/564x/90/a8/5f/90a85f7f3ff16eb05ca933d84c5e07dd.jpg"width="80" height="80"></td><td><font color="#794918"><font size="12"><font face="Comic Sans MS">Xodiro.com</font></p></p>
+</tr></table>
+
+<P align="right"><table border>
+<tr bgcolor="#eee8aa"><font size="6"><font face="Comic Sans MS">
+<td><font size="5"><font face="Comic Sans MS">Descubre y aprende de forma segura</br>
+</td> 
+</tr>
+</table>
+
+<font size="6"><font color="#794918"><font face="Comic Sans MS"><P align="center">INGIENERÍA FORESTAL</font></font>
+
+
+<P align="left"><table bgcolor="#8b4513">
+<td><P align="left"><img src="https://th.bing.com/th/id/R.06c6b90391c79382312b0b21bb717c52?rik=3fOe3QpA1YELqw&riu=http%3a%2f%2fdai.uaeh.edu.mx%2fpaale%2fea%2ficono.png&ehk=LGETz6%2bc7ZJUxW2wLxll6bLE5oMfeiqHU0RPETteVT0%3d&risl=&pid=ImgRaw&r=0"width="150" height="150"></td>
+<td><font size="4"><font face="Comic Sans MS">Duración= 9 semestres, en el 8° semestre se realiza el servicio social y en el 9° las practicas profesionales
+<br>MISIÓN: Formar capital humano de alta calidad, de acuerdo con las necesidades de la sociedad global, proporcionando la incorporación 
+exitosa de sus egresados 
+<br>VISIÓN: Ser una universidad global, reconocida por sus indicadores de excelencia y visible en los sitemas de medicióninternacional 
+de calidad. Ademas se enfoca en garantizar el desarrollo de competencias,aptitudes y habilidades a través de un programa flexible para
+brindar una formación integral a estudiantes
+<br><font size="4"><font face="Comic Sans MS"><a href="https://www.uaeh.edu.mx/discover/" target="_blank">Universidad Autonoma del Estado de Hidalgo</font></a>
+
+</td> 
+</tr>
+</table>
+
+<br></br>
+
+<P align="left"><table bgcolor="#a0522d">
+<td><P align="left"><img src="https://dicifo.chapingo.mx/wp-content/uploads/2023/02/logo_dicifo.png"width="150" height="150"></td>
+<td><font size="4"><font face="Comic Sans MS">La carrera esta diseñada para cualquier estudiante egresado de la preparatoria agrícola o del propedéutico.Ademasde contar con sentido 
+analítico, tecnico y cientifico de las áreas de ingienería, la biología,la ecología y la administración, aplicados al conocimiento
+y manejo de los recursos forestales y todo lo relacionado con ellos.
+<br>Campus central: Km.38.5 carretera México.Texcoco Chapingo. Texcoco, Estado de México CP 56230
+<br><font size="4"><font face="Comic Sans MS"><a href="https://chapingo.mx/" target="_blank">División de Ciencias Forestales - Chapingo</font>
+</td>
+</tr>
+</table>
+
+<br></br>
+
+
+<P align="center"><table bgcolor="#cd853f">
+<td><P align="left"><img src="https://th.bing.com/th/id/OIP.RcPaAqPeMS_qaEP2qDWKeAAAAA?rs=1&pid=ImgDetMain"width="150" height="150"></td>
+<td><font size="5"><font face="Comic Sans MS">Duración= 9 semestres de forma presencial
+<br>MODALIDAD: Escolarizada
+<br>INGRESO: Anual
+<br>SEDE: Campus Linares, Linares, N.L 
+<br>CORREO: academia.fcf.@uanl.edu.mx
+<br><font size="6"><font face="Comic Sans MS"><a href="https://www.uanl.mx/" target="_blank">Universidad Autonoma de Nuevo León </font></a>
+</td>
+</tr>
+</table>
+
+<footer>
+    <p align="center"><font color="#794918"><font size="5"><font face="Comic Sans MS">Xodiro	-	<img src="https://clipartcraft.com/images/email-logo-png-brown-2.png"width="25" height="25"> Xodiro.web@gmail.com	-	<img src="https://www.pnguniverse.com/wp-content/uploads/2020/08/instagram-480x480.png"width="25" height="25">Xodiro_web	-	<img src="https://www.pnguniverse.com/wp-content/uploads/2020/09/whatsapp-795531.png"width="25" height="25">775 275 0575</p></font></font>
+</footer>
+
+</body>
+</html>

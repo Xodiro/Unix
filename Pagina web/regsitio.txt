@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Formulario de registro</title>
+</head>
+<body>
+<h5>REGISTRA TUS DATOS</h5>
+<br>
+<form action="file:///C:/Users/Ximena/Desktop/DEWE/usuariodesitio.html" method="post">
+
+Escribe tu nombre 
+<input type="text" name="nombre" value=""/>
+Escribe tu apellido paterno
+<input type="text" name="apellido paterno" value=""/>
+Escribe tu apellido materno
+<input type="text" name="apellido materno" value=""/>
+<br>
+<br>
+<br>
+Escribe una contraseña
+<input type="password" name="clave" value=""/>
+Confirma tu contraseña
+<input type="password" name="clave" value=""/>
+<br>
+<br>
+<br>
+
+Selecciona el genero con el que te identificas 
+<input type="radio" name="genero" value="mujer" checked="checked"/>mujer
+<input type="radio" name="genero" value="hombre" checked="checked"/>hombre
+<input type="radio" name="genero" value="sin genero" checked="checked"/>sin genero
+<input type="radio" name="genero" value="indistinto" checked="checked"/>indistinto
+<input type="radio" name="genero" value="prefiero no decir" checked="checked"/>prefiero no decir
+
+<input name="mujer" type="checkbox" value="mujer"/Mujer
+<input name="Vizcaya" type="checkbox" value="Vizcaya"/>Vizcaya
+<input name="UAEH" type="checkbox" value="UAEH"/>UAEH
+<br>
+<br>
+<br>
+
+Di a que universidad deseas entrar
+<input name="upt" type="checkbox" value="politecnica"/>Politecnica de Tulancingo
+<input name="Vizcaya" type="checkbox" value="Vizcaya"/>Vizcaya
+<input name="UAEH" type="checkbox" value="UAEH"/>UAEH
+<br>
+<br>
+<br>
+
+Sube tu fotografia de tu credencial de estudiante 
+<input  type="file" name="adjuntar" />
+<br>
+<br>
+<br>
+
+Selecciona tu fecha de nacimiento:
+<input type="date">
+<br>
+<br>
+<br>
+Selecciona de la siguiente lista las materias:
+<label form="lang"> Materias</label>Selecciona las materias:
+<select name="Materias" id="Materias">
+<option value="Matematicas">Matematicas</option>
+<option value="Español">Español</option>
+<option value="Redes">Redes</option>
+</select>
+<br>
+<br>
+
+<input type="reset" name="limpia" value="Borrar"/>
+<input type="button" name="Guardar" value="Guardar cambios"/>
+<input type="submit" value="Enviar"/>
+
+
+</form>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Xodiro.com</title>
+</head>
+<body bgcolor="#deb887">
+<p align="center"><table>
+<tr><td><img src="https://i.pinimg.com/564x/90/a8/5f/90a85f7f3ff16eb05ca933d84c5e07dd.jpg"width="80" height="80"></td><td><font color="#794918"><font size="12"><font face="Comic Sans MS">Xodiro.com</font></p></p>
+</tr></table>
+
+<P align="right"><table border>
+<tr bgcolor="#eee8aa"><font size="6"><font face="Comic Sans MS">
+<td><font size="5"><font face="Comic Sans MS">Descubre y aprende de forma segura</br>
+</td> 
+</tr>
+</table>
+
+<font size="6"><font color="#794918"><font face="Comic Sans MS"><P align="center">NEGOCIOS INTERNACIONALES</font></font>
+
+<P align="left"><table bgcolor="#8b4513">
+<td><P align="left"><img src="https://sigae.upt.edu.mx/imagenes/upt_oficial.png"width="150" height="150"></td>
+<td><font size="4"><font face="Comic Sans MS">Duración= 10 cuatrimestres
+<br>MISIÓN DE LA CARRERA: Formar profesionistas lideres,eficaces y éticos comprometidos y capaces de desenvolverse activamente en el 
+ambito de negocios internacionaes con una visión integral en un entorno multidisciplinario, multicultural y de justicia adquiriendo 
+competencias que favorezca el desarrollo de los sectores publicos y privado, así como el personal,,contando con la preparación adecuada
+que permite afrontar el entorno global con una planta academica de enfoque tecnológico, creativo y emprendedor.
+<br>VISIÓN DE LA CARRERA:Formar profesionales capaces de desarrollarse en el entorno global ejerciendo influencia transformadora en la 
+generación de riqueza y conocimiento dirigido a los sectores productivo y social en la calidad y valores 
+<br><font size="4"><font face="Comic Sans MS"><a href="http://www.upt.edu.mx/Contenido/OfertaEducativa/Profesional/LNI/LicNegocios.html" target="_blank">Universidad Politecnica de Tulancingo</font></a>
+
+</td> 
+</tr>
+</table>
+
+<br></br>
+
+<P align="left"><table bgcolor="#a0522d">
+<td><P align="left"><img src="https://static.wixstatic.com/media/e897bd_24527a1e700e41f6b2ed0686e11cadf9~mv2.png/v1/fit/w_2500,h_1330,al_c/e897bd_24527a1e700e41f6b2ed0686e11cadf9~mv2.png"width="150" height="150"></td>
+<td><font size="4"><font face="Comic Sans MS">Duración= 5 cuatrimestres
+<br>VISIÓN:Al año 2040 ser una institución publica acreditada local y globabalmente por la calidad y pertinencia de sus programas educativos,
+competividad, humanismo y ética de sus egresados.Reconocida por sus aportaciones ala generación, aplicación del conocimiento innovación y 
+transferencia de tecnología;para contribuir al desarrollo social  y sostenible de la región.
+<br>MISIÓN:Formar personas integras,con conocimientos cientiicos,tecnologicos y humanisticos, habilidades, actitudes y valores que impulsen
+el desarrollo del potencial humano, en congruencia a sus expectativas de vida y que contribuyan al mejoramiento de la sociedad.Realizar 
+investigación aplicada, desarrollo tecnológico e innovación que atienda las necesidades de los sectores publicos, privado y social, en un 
+marco de sostenibilidad, responsabilidad social y la perservación de las culturas 
+<br><font size="4"><font face="Comic Sans MS"><a href="http://www.utectulancingo.edu.mx/index.html" target="_blank">Universidad Tecnologica de Tulancingo</font></a>
+</td>
+</tr>
+</table>
+
+<br></br>
+
+
+<P align="center"><table bgcolor="#cd853f">
+<td><P align="left"><img src="https://images.credly.com/size/200x200/images/b8e6d134-79fe-4f11-a50c-309463334760/blob.png"width="150" height="150"></td>
+<td><font size="5"><font face="Comic Sans MS">Duración= 8 semestres de forma presencial
+<br>VISIÓN:Personas positivas con proposito de vida y las competencias para alcanzarlas
+<br>Fecha inicio: Enero/Agosto
+<br><font size="6"><font face="Comic Sans MS"><a href="https://www.tecmilenio.mx/es" target="_blank">Tecmilenio</font></a>
+
+
+</td>
+</tr>
+</table>
+
+<footer>
+    <p align="center"><font color="#794918"><font size="5"><font face="Comic Sans MS">Xodiro	-	<img src="https://clipartcraft.com/images/email-logo-png-brown-2.png"width="25" height="25"> Xodiro.web@gmail.com	-	<img src="https://www.pnguniverse.com/wp-content/uploads/2020/08/instagram-480x480.png"width="25" height="25">Xodiro_web	-	<img src="https://www.pnguniverse.com/wp-content/uploads/2020/09/whatsapp-795531.png"width="25" height="25">775 275 0575</p></font></font>
+</footer>
+
+</body>
+</html>
